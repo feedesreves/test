@@ -1,2 +1,2 @@
 # test
-_ version 2.0 du fichier _
+* version 2.0 du fichier *
